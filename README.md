@@ -56,6 +56,10 @@ This project is a Social Network API built using MongoDB, Express.js, and Mongoo
 - `POST /api/thoughts/:thoughtId/reactions` - Add a reaction to a thought
 - `DELETE /api/thoughts/:thoughtId/reactions/:reactionId` - Remove a reaction from a thought
 
+### Contributors
+
+- [Christian Walters](https://github.com/EnderJunk)
+
 ## License
 
 This project is licensed under the MIT License.
